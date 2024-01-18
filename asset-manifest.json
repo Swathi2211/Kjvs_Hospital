@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kjvs_Hospital/static/css/main.ab12dc09.css",
-    "main.js": "/Kjvs_Hospital/static/js/main.de6326b8.js",
+    "main.js": "/Kjvs_Hospital/static/js/main.1d9ccd53.js",
     "static/js/45.04cab7af.chunk.js": "/Kjvs_Hospital/static/js/45.04cab7af.chunk.js",
     "static/js/787.00603601.chunk.js": "/Kjvs_Hospital/static/js/787.00603601.chunk.js",
     "static/media/1699181300436mal23.jpg": "/Kjvs_Hospital/static/media/1699181300436mal23.7892d4b86800b5d73fcb.jpg",
@@ -131,12 +131,12 @@
     "static/media/1699183786450blue.webp": "/Kjvs_Hospital/static/media/1699183786450blue.af3ae3ad4469d238b645.webp",
     "index.html": "/Kjvs_Hospital/index.html",
     "main.ab12dc09.css.map": "/Kjvs_Hospital/static/css/main.ab12dc09.css.map",
-    "main.de6326b8.js.map": "/Kjvs_Hospital/static/js/main.de6326b8.js.map",
+    "main.1d9ccd53.js.map": "/Kjvs_Hospital/static/js/main.1d9ccd53.js.map",
     "45.04cab7af.chunk.js.map": "/Kjvs_Hospital/static/js/45.04cab7af.chunk.js.map",
     "787.00603601.chunk.js.map": "/Kjvs_Hospital/static/js/787.00603601.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab12dc09.css",
-    "static/js/main.de6326b8.js"
+    "static/js/main.1d9ccd53.js"
   ]
 }
