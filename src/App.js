@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
+import { HashRouter, Route, Routes, useLocation } from 'react-router-dom';
 import './App.css';
 import Main from './comps/main/Main';
 import SignIn from './comps/signIn';
@@ -47,7 +47,11 @@ function App() {
   return (
     <>
 
-      <BrowserRouter>
+
+
+      <HashRouter>
+
+        
 
         <ScrollToTopOnNavigation />
 
@@ -74,7 +78,7 @@ function App() {
 
         </Routes>
 
-      </BrowserRouter>
+      </HashRouter>
 
 
     </>
