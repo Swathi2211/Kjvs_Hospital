@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Dancing+Script:wght@600&family=Merriweather+Sans:ital,wght@0,500;1,700&family=PT+Serif&display=swap');
+
+#frText {
+  font-family: PT Serif;
+}
+
+#front {
+  background-color: azure;
+}
+
+#photo-ani {
+  position: relative;
+  width: 550px;
+  /* Adjust based on your image size */
+  height: 650px;
+  /* Adjust based on your image size */
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  animation: fadeInOut 40s infinite;
+}
+
+.photo:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.photo:nth-child(2) {
+  animation-delay: 10s;
+}
+
+.photo:nth-child(3) {
+  animation-delay: 20s;
+}
+
+.photo:nth-child(4) {
+  animation-delay: 30s;
+}
+
+.photo:nth-child(5) {
+  animation-delay: 40s;
+}
+
+.photo:nth-child(6) {
+  animation-delay: 50s;
+}
+
+.photo:nth-child(7) {
+  animation-delay: 60s;
+}
+
+.photo:nth-child(8) {
+  animation-delay: 70s;
+}
+
+.photo:nth-child(9) {
+  animation-delay: 80s;
+}
+
+.photo:nth-child(10) {
+  animation-delay: 90s;
+}
+
+.photo:nth-child(11) {
+  animation-delay: 100s;
+}
+
+.photo:nth-child(12) {
+  animation-delay: 110s;
+}
+
+.photo:nth-child(13) {
+  animation-delay: 120s;
+}
+
+.photo:nth-child(14) {
+  animation-delay: 130s;
+}
+
+.photo:nth-child(15) {
+  animation-delay: 140s;
+}
+
+.photo:nth-child(16) {
+  animation-delay: 150s;
+}
+
+@keyframes fadeInOut {
+
+  0%,
+  100% {
+    opacity: 0;
+  }
+
+  10%,
+  90% {
+    opacity: 1;
+  }
+}
+
+
+#bookBtn {
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(0, 169, 124);
+  background-color: rgb(0, 169, 124);
+  color: white;
+  margin-top: 50px;
+}
+
+#bookBtn:hover{
+  border: 1px solid rgb(0, 169, 124);
+  color: rgb(0, 169, 124);
+  background-color: white;
+}
+
+#bookBtn i{
+  margin-right: 10px; 
+  color: white;
+} 
+
+#bookBtn:hover i{
+  color: rgb(0, 169, 124);
+} 

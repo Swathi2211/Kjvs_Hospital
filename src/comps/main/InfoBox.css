@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Merriweather+Sans:ital,wght@0,500;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Dancing+Script:wght@600&family=Merriweather+Sans:ital,wght@0,500;1,700&display=swap');
+
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#endflex1{
+    display: flex;
+}
+
+.endchild{
+    width: 300px;
+}
+
+#logos{
+    display: flex;
+}
+
+#logos li button{
+    padding: 10px;
+    border-radius: 100%;
+    border: 0px solid rgb(35, 187, 152);
+    background-color: rgb(10, 161, 126);
+    border:1px solid rgb(10, 161, 126);
+    margin: 10px;
+}
+
+#logos li button:hover{
+    border:1px solid rgb(10, 161, 126);
+    background-color: white;
+}
+
+#logos li button i{
+    color : white;
+}
+
+#logos li button:hover i{
+    color : rgb(10, 161, 126);
+}
+
+#endpar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: azure;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.endchild2 li, h3{
+    margin-bottom: 10px;
+}
+.endchild3 li, h3{
+    margin-bottom: 10px;
+}
+.endchild3 p, h2{
+    margin-bottom: 20px;
+}
+
+#copy{
+    background-color: rgb(30, 198, 167);
+    
+}
+#copy h4{
+    
+    text-align: center;
+}
+
+#ppp{
+    font-family: Dancing Script;
+}
+
+#hr{
+    width:15%;
+    background-color : rgb(51, 183, 152);
+    height: 3px;
+    margin-bottom: 30px
+  }
+
+  #bbb{
+    font-family: Barlow;
+  }

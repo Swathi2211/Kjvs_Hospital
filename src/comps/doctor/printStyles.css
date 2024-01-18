@@ -1,0 +1,11 @@
+/* printStyles.css */
+
+@media print {
+
+
+    #body {
+        margin-left: calc(17% - 350px);
+        margin-bottom: 2850px;
+    }
+
+}

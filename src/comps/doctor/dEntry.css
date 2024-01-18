@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kay+Pho+Du&family=Playfair+Display:wght@700&display=swap');
+
+.inpPat {
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#play {
+    font-family: 'Playfair Display';
+}
+
+#kay {
+    font-family: 'Kay Pho Du';
+}
+
+#body {
+    background-color: rgba(250, 250, 250, 0.886);
+}
+
+.presc input {
+    width: 200px;
+}
+
+#tickPresc:hover {
+    font-size: 20px;
+    background-color: rgb(13, 180, 99);
+}
+
+#tickPresc {
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(13, 180, 99, 0.3);
+    padding: 8px;
+    margin-top: -25px;
+    border: 1px solid white;
+}
+
+.crossPresc {
+
+    position: absolute;
+    color: white;
+    background-color: rgb(255, 28, 28);
+    padding: 3px;
+    margin-top: -35px;
+    margin-left: 470px;
+}
+
+.crossPresc:hover {
+
+    background-color: white;
+    color: rgb(255, 28, 28);
+}
+
+.p-datepicker-trigger.p-button.p-component.p-button-icon-only {
+    height: 40px;
+    background-color: rgb(13, 180, 99);
+}
+
+.p-icon {
+    position: absolute;
+    z-index: 99;
+}
+
+.p-inputtext.p-component {
+    font-family: 'Kay Pho Du';
+}
+
+li.p-dropdown-item {
+    padding: 5px;
+    font-family: 'Kay Pho Du';
+}
+
+#ap1.p-dropdown-panel.p-component.p-ripple-disabled.p-connected-overlay-enter-done {
+    min-width: 120px;
+}
+
+.p-multiselect-item {
+    font-family: 'Kay Pho Du';
+}
+
+.p-checkbox.p-component {
+    margin: 15px;
+}
+
+.p-multiselect-items.p-component span {
+    padding-left: 40px;
+}
+
+.p-multiselect-filter-container {
+    margin-top: 10px;
+}
+
+.p-icon.p-multiselect-filter-icon {
+    margin-top: -10px;
+}
+
+.presc.p-multiselect-close.p-link {
+    margin-bottom: -5px;
+}
+
+
+#prescB {
+    margin-top: 150px;
+    width: 200px;
+    height: 40px;
+    margin-left: 38%;
+    font-family: 'Kay Pho Du';
+    font-size: 15px;
+    background-color: rgb(13, 180, 99);
+    color: white;
+    border: 1px solid rgb(13, 180, 99);
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+#prescB:hover {
+    color: rgb(13, 180, 99);
+    background-color: white;
+    border: 1px solid rgb(13, 180, 99);
+}
+
+#hist {
+    margin-left: 115%;
+    position: sticky;
+    top: 650px;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    background-color: rgba(74, 218, 148, 0.854);
+    color: white;
+    border-radius: 100%;
+    padding-top: 3px;
+    border: none;
+    transition: opacity 0.1s ease-in-out;
+}
+
+#hist:hover {
+    color: white;
+    background-color: rgb(13, 180, 99);
+}
+
+#crHis {
+    background-color: rgb(186, 61, 61);
+    color: white;
+    font-size: 15px;
+}
+
+#crHis:hover {
+    background-color: red;
+    color: white;
+}
+
+#patInp label{
+    margin-bottom: 20px;
+}
+
+
+#patInp input{
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+

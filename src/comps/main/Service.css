@@ -1,0 +1,14 @@
+.serchild{
+    width: 320px;
+    height: 350px;
+    padding: 20px;
+    padding-right: 0px;
+    box-shadow: 1px 1px 20px 5px rgb(205, 203, 203);
+    margin-bottom: 80px;
+    
+}
+
+
+.serchild p, h3{
+    margin-top: 10px;
+}

@@ -1,0 +1,27 @@
+
+
+#appimg{
+    background: url(../../img/appoint.jpg) no-repeat center/cover;
+    position: relative;
+    margin-top: 100px;
+    height: 600.2px;
+    width: 100%;
+    z-index: -55;
+}
+
+#appwri{
+    position : absolute;
+    margin-top: -450px;
+    width: 700px;
+    margin-left: 130px;
+}
+
+
+
+#appwri h1{
+    font-size: 55px;;
+}
+
+#colabBtn:hover{
+    background-color: transparent;
+}

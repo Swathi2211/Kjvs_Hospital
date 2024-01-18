@@ -1,0 +1,326 @@
+/* Assuming you're using CSS */
+#fCir.p-skeleton {
+    /* Your custom styles here */
+    background-color: #ddd;
+    /* Example background color */
+    border-radius: 50%;
+    margin: 20px;
+    margin-left: 130px;
+}
+
+#fHeading.p-skeleton {
+    padding: 17px;
+    padding-left: 50px;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+
+#fHeading1.p-skeleton {
+    padding: 0px;
+    padding-left: 80px;
+    margin-top: 46px;
+    margin-right: 60px;
+}
+
+#fHeading3.p-skeleton {
+    padding: 0px;
+    padding-left: 150px;
+    margin-top: 46px;
+    margin-right: 30px;
+}
+
+#fHeading4.p-skeleton {
+    padding: 0px;
+    padding-left: 1490px;
+    padding-bottom: 600px;
+    margin-top: 46px;
+    margin-right: 30px;
+    background-color: #dddddd25;
+}
+
+#fHeading5.p-skeleton {
+    padding-left: 350px;
+
+    margin-top: -450px;
+    margin-left: 200px;
+    background-color: #ddddddcb;
+}
+
+#fHeading6.p-skeleton {
+    padding-left: 600px;
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: #ddddddcb;
+}
+
+#fHeading7.p-skeleton {
+    padding-left: 550px;
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: #ddddddcb;
+}
+
+#fHeading8.p-skeleton {
+    padding-left: 250px;
+    margin-top: 40px;
+    margin-left: 200px;
+    background-color: #ddddddcb;
+}
+
+#fHeading9.p-skeleton {
+    padding-left: 320px;
+    margin-top: -400px;
+    margin-left: 1000px;
+    padding-bottom: 500px;
+    background-color: #ddddddcb;
+}
+
+
+#Appoint1 {
+    padding-left: 720px;
+    margin-top: -550px;
+    margin-left: 380px;
+    padding-bottom: 600px;
+    background-color: #ddddddcb;
+}
+
+#about1 {
+    padding-left: 280px;
+    margin-top: -550px;
+    margin-left: 380px;
+    padding-bottom: 500px;
+    background-color: #ddddddcb;
+    border-radius: 20px;
+}
+
+#about2 {
+    padding-left: 280px;
+    margin-top: -500px;
+    margin-left: 20px;
+    padding-bottom: 500px;
+    background-color: #ddddddcb;
+    border-radius: 20px;
+}
+
+#about3 {
+    padding-left: 150px;
+    margin-top: -450px;
+    margin-left: 800px;
+    padding-bottom: 5px;
+    background-color: #ddddddcb;
+}
+
+#about4 {
+    padding-left: 530px;
+    margin-top: 30px;
+    margin-left: 800px;
+    padding-bottom: 5px;
+    background-color: #ddddddcb;
+}
+
+#about5 {
+    padding-left: 570px;
+    margin-left: 800px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+    background-color: #ddddddcb;
+}
+
+#about6 {
+    padding-left: 250px;
+    margin-top: -430px;
+    margin-left: 800px;
+    padding-bottom: 5px;
+    background-color: #ddddddcb;
+}
+
+#about7 {
+    padding-left: 250px;
+    margin-top: -430px;
+    margin-left: 70px;
+    padding-bottom: 5px;
+    background-color: #ddddddcb;
+}
+
+#about8 {
+    padding-left: 100px;
+    margin-top: -300px;
+    margin-left: -570px;
+    padding-bottom: 5px;
+    background-color: #ddddddcb;
+}
+
+
+#serv1 {
+    padding-left: 300px;
+    margin-top: 60px;
+    margin-left: 350px;
+    padding-bottom: 2px;
+    background-color: #ddddddcb;
+}
+
+
+#serv2 {
+    padding-left: 1220px;
+    margin-top: 60px;
+    margin-left: 120px;
+    padding-bottom: 40px;
+    background-color: #ddddddcb;
+}
+
+#serv3 {
+    padding-left: 1220px;
+    margin-top: 30px;
+    margin-left: 120px;
+    padding-bottom: 90px;
+    background-color: #ddddddcb;
+}
+
+#serv4 {
+    padding-left: 1220px;
+    margin-top: 30px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    background-color: #ddddddcb;
+}
+
+#serv5 {
+    padding-left: 1220px;
+    margin-top: 30px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    background-color: #ddddddcb;
+}
+
+#serv5 {
+    padding-left: 250px;
+    margin-top: 30px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    background-color: #ddddddcb;
+}
+
+#serv6 {
+    padding-left: 250px;
+    margin-top: 30px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    background-color: #ddddddcb;
+}
+
+#serv7 {
+    padding-left: 250px;
+    margin-top: 30px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    background-color: #ddddddcb;
+}
+
+
+#cont1 {
+    padding-left: 550px;
+    margin-top: 190px;
+    margin-left: 200px;
+    padding-bottom: 200px;
+    background-color: #ddddddcb;
+}
+
+.loading-skeleton {
+    position: relative;
+    overflow: hidden;
+    height: 5px;
+    background-color: white;
+    /* Set your background color */
+}
+
+.flowing-animation {
+    animation: flowing 10s infinite linear;
+    background: linear-gradient(90deg, rgb(9, 187, 95), rgb(9, 187, 95), rgb(9, 187, 95));
+    /* Set your gradient colors */
+}
+
+@keyframes flowing {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+
+.three-dots-loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(9, 187, 95);
+    /* Change the color as needed */
+    border-radius: 50%;
+    margin: 0 5px;
+    margin-top: 200px;
+    animation: bounce 1.5s infinite ease-in-out;
+}
+
+@keyframes bounce {
+
+    0%,
+    100% {
+        transform: scale(0);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+}
+
+.kjvs-loader {
+    display: flex;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    overflow: hidden;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color:rgb(6, 181, 120);
+    margin-top: 300px;
+    background-color: azure;
+}
+
+.letter {
+    opacity: 0;
+    transform: translateY(10px);
+    animation: kjvs-typewriter 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+}
+
+.letter:nth-child(1) {
+    animation-delay: 0.2s;
+}
+
+.letter:nth-child(2) {
+    animation-delay: 0.4s;
+}
+
+.letter:nth-child(3) {
+    animation-delay: 0.6s;
+}
+
+.letter:nth-child(4) {
+    animation-delay: 0.8s;
+}
+
+@keyframes kjvs-typewriter {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+

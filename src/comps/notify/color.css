@@ -1,0 +1,40 @@
+#bgGray{
+    
+    background: url(../../img/clover.webp) no-repeat center/cover;
+    z-index: 0;
+    filter: blur(3px);
+    width: 1528px;
+    height: 750px;
+}
+
+.boxFil{
+    height : 40px;
+    width : 1250px;
+    margin : 20px;
+    background-color: rgb(244, 244, 244, 0.7);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.064);
+}
+
+#hov:hover{
+    cursor: pointer;
+}
+
+#fhd{
+    height : 80px;
+    width : 200px;
+    background-color: transparent;
+    color : white;
+    border: none;
+    font-weight: bold;
+}
+
+#fhd:focus{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    cursor:pointer;
+}
+
+#chk{
+    margin-left: 30px;
+    margin-top: 10px;
+}

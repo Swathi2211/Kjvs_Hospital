@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Merriweather+Sans:ital,wght@0,500;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Dancing+Script:wght@600&family=Merriweather+Sans:ital,wght@0,500;1,700&display=swap');
+
+
+#pmenu{
+    display: grid;
+    grid-template-columns: 20% 50% 30%;
+    justify-content: space-evenly;
+    margin: 100px;
+    margin-top: 15px;
+}
+
+#pmenu div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#pmenu h2{
+    font-family: Dancing Script;
+}
+
+#midText p{
+    font-family: Barlow;
+}
+
+#midText button{
+    font-family: Barlow;
+    height: 40px;
+    padding-left:40px;
+    padding-right: 40px;
+    font-size: 16px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border : 1px solid white;
+    background-color: rgb(0, 169, 124);
+    font-weight: bold;
+    color: white;
+}
+
+#midText button:hover{
+    background-color: white;
+    color: rgb(0, 169, 124);
+    border: 1px solid rgb(0, 169, 124);
+}
+
+
+
+
+#midText p:hover{
+    cursor: pointer;
+}

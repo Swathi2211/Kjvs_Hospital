@@ -1,0 +1,102 @@
+#cmbtn,
+#ydbtn,
+#cdbtn {
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    font-size: 13px;
+    background-color: rgba(155, 205, 255, 0);
+    border: none;
+    color: black;
+}
+
+
+#cmbtn:hover,
+#ydbtn:hover,
+#cdbtn:hover {
+
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+
+
+#clrbtn {
+    color: rgb(218, 35, 35);
+    border: none;
+    padding: 2px;
+    border-radius: 10px;
+    width: 100px;
+    font-size: 13px;
+}
+
+#clrbtn:hover {
+    box-shadow: 1px 1px 5px 1px rgba(255, 96, 60, 0.785);
+}
+
+
+
+
+.doct .p-datatable-header {
+    background-color: rgba(155, 205, 255, 0.66);;
+    padding: 5px;
+    height: 70px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.doct .p-paginator-bottom{
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.doct .pi.pi-search {
+    margin: 10px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+.doct .p-inputtext {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+
+.doct{
+    width : 690px;
+    margin-left: 5px;
+}
+
+
+
+.doct .p-datatable-table thead tr th {
+    padding: 10px;
+
+}
+.doct .p-datatable-table tbody tr td {
+    padding: 10px;
+
+}
+
+.doct .p-column-filter.p-fluid.p-column-filter-menu{
+    padding-left: 70px;
+}
+
+
+.doct .p-paginator-bottom.p-paginator.p-component{
+    padding: 10px;
+}
+
+.p-column-filter-matchmode-dropdown.p-dropdown.p-component.p-inputwrapper.p-inputwrapper-filled{
+    width: 223px;
+}
+
+.p-column-filter-buttonbar button{
+    padding: 5px;
+    margin: 5px;
+}
+
+
